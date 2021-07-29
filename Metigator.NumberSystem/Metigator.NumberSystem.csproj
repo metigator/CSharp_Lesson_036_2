@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Issam A.</Authors>
+    <Company>Metigator</Company>
+    <Description>Convert between numbes from different bases.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>Metigator.NumberSystem.EnhanceVersion</PackageId>
+  </PropertyGroup>
+
+</Project>
